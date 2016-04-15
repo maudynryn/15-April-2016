@@ -10,9 +10,10 @@ int main()
     cout << "Masukkan pangkat = ";
     cin >> pangkat;
     jumlah=1;
-    for (i=1;i<=pangkat;i++)
+    (i=1;i<=pangkat;i++)
     {
         jumlah=jumlah*nilai;
     }
     cout << "Jumlah = "<<jumlah;
 }
+
